@@ -22,11 +22,11 @@ OS e SYS – Manipulação de sistema de arquivos e execução
 📦 Requisitos
 Certifique-se de ter o Python instalado (versão 3.x). As bibliotecas utilizadas são todas nativas, não sendo necessário instalar pacotes adicionais.
 
-🚀 Como executar
+🚀 Como executar ;
 Clone ou baixe este repositório:
 
-- git clone https://github.com/seuusuario/nome-do-repo.git
-- cd nome-do-repo
+- git clone https://github.com/matd00/Registration_System.git
+- cd Regystration_System
 Execute o arquivo principal:
 - python app.py
 
